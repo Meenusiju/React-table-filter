@@ -1,0 +1,75 @@
+.container{
+  background-color:rgb(202, 219, 233);
+}
+.task-input {
+    width: 50px;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    min-width: 250px;
+    padding: 15px 10px 10px 20px;
+    margin-right: 5px;
+    font-family: 'Josefin Sans', serif;
+    font-size: 15px;
+    color: rgb(15, 15, 15);
+    background-color: #ddd;
+    border: 1px solid rgb(37, 37, 33);
+    outline: none;
+    border-radius: 10px;
+    box-shadow: 0 1px 2px rgba(240, 203, 102, 0.3);
+  }
+  .search-box{
+    margin-top: 5px;
+    width: 250px;
+    margin: auto;
+    
+  }
+  .page-box{
+    background-color: cornsilk;
+    width: 250px;
+    margin: auto;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+  }
+  .column-search {
+    width: 50px;
+    margin-bottom: 0.5em;
+    min-width: 150px;
+    padding: 15px 10px 10px 20px;
+    margin-right: 5px;
+    font-family: 'Josefin Sans', serif;
+    font-size: 15px;
+    color: rgb(15, 15, 15);
+    background-color: #ddd;
+    border: 1px solid rgb(37, 37, 33);
+    outline: none;
+    border-radius: 10px;
+    box-shadow: 0 1px 2px rgba(240, 203, 102, 0.3);
+  }
+  .sort-desc {
+    margin-left: 50px;
+    color: #042710;
+  }
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  table td, table th {
+    border: 1px solid #0e0d0d;
+    padding: 8px;
+  }
+  
+  table tr:nth-child(even)
+  
+  table tr:hover {background-color: #ddd;}
+  
+  table th,tfoot td {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #ddd;
+    color: rgb(24, 22, 22);
+  }
+
+  
